@@ -1,0 +1,10 @@
+.pet-column {
+  float: left;
+  padding: 20px;
+  width: 33%;
+  box-sizing: border-box;
+}
+
+.pet-column h3 {
+  text-align: center;
+}
